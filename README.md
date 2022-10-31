@@ -10,7 +10,7 @@
 - 소비자는 여러 쇼핑몰을 방문할 필요 없이, 해당 사이트를 통해 한번에 여러 쇼핑몰의 제품을 모아볼 수 있습니다.
 
 ### ERD
-<img src="D:\repository\project\oneclick-shoppingmall\src\main\resources\static\images\ERD.PNG">
+<img src="https://github.com/bokyung95/oneclick-shoppingmall/blob/a3dff4dafb98cc7ad1bd874970a6060ea509109c/images/ERD.PNG">
 추후 변경될 수 있음
 
 ### 사용 기술 스택
