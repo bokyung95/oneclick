@@ -2,7 +2,7 @@ package com.gang.oneclickshoppingmall.member.service;
 
 import static com.gang.oneclickshoppingmall.exception.type.ErrorCode.MEMBER_NOT_FOUND;
 
-import com.gang.oneclickshoppingmall.exception.CustomException;
+import com.gang.oneclickshoppingmall.exception.type.CustomException;
 import com.gang.oneclickshoppingmall.jwt.JwtTokenProvider;
 import com.gang.oneclickshoppingmall.member.dto.LoginDto.LoginRequestDto;
 import com.gang.oneclickshoppingmall.member.dto.SignUpDto.SignUpRequestDto;
